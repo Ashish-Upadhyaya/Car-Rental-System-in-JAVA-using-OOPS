@@ -130,7 +130,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Your Name - [your-email@example.com](mailto:your-email@example.com)
+Ashish Kumar Upadhyaya - [ashishofficial231@gmail.com](mailto:ashishofficial231@gmail.com)
 
 Project Link: [https://github.com/yourusername/car-rental-system](https://github.com/yourusername/car-rental-system)
 
