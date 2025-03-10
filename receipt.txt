@@ -1,0 +1,6 @@
+--- Bill ---
+
+Subtotal: Rs.0
+Discount (0%): Rs.0
+Tax (0%): Rs.0
+Total: Rs.0
